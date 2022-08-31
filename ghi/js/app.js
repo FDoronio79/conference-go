@@ -57,7 +57,7 @@ window.addEventListener('DOMContentLoaded', async () => {
 
         }
     } catch (e) {
-        console.error('error', e)
+        alert('BRUHHHHH')
     }
 
 });

@@ -42,6 +42,6 @@ window.addEventListener("DOMContentLoaded", async () => {
         let success = document.getElementById("success-message")
         form.classList.add("d-none")
         success.classList.remove("d-none")
-    }
-  });
+        }
+    });
 });
